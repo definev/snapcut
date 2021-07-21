@@ -1,4 +1,5 @@
 # Snapcut
+Project đã được chuyển đến repo của nhóm. [Đi đến repo mới](https://github.com/kodestudio/snapcut)
 ## _Phiên bản nhỏ gọn của Snapseed dành cho mọi nền tảng._
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
